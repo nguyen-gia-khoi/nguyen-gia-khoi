@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**nguyen-gia-khoi/nguyen-gia-khoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Nguyễn Gia Khôi</h1>
 <h3 align="center">A passionate backend developer from Vietnam</h3>
 
@@ -23,7 +7,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nguyen-gia-khoi&margin-w=15&column=7" alt="nguyen-gia-khoi" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nguyen-gia-khoi&margin-w=15&column=8" alt="nguyen-gia-khoi" />
   </a> 
 </p>
 
@@ -88,10 +72,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyen-gia-khoi&show_icons=true&locale=en&layout=compact" alt="nguyen-gia-khoi" />
 </p>
 
-<p align="center">
+<p align="center" style="margin-top: 20px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyen-gia-khoi&show_icons=true&locale=en" alt="nguyen-gia-khoi" />
 </p>
 
-<p align="center">
+<p align="center" style="margin-top: 20px;">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyen-gia-khoi&" alt="nguyen-gia-khoi" />
 </p>
